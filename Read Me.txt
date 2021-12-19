@@ -1,0 +1,23 @@
+Hello 
+
+Controls:
+WASD - move 
+Spacebar - Jump
+f - Mode 1
+g - Mode 3
+h - Mode 3
+j - Mode 4
+
+Modes:
+1 - elevate a platform
+2 - descend a platform
+3 - attract 2 platforms towards each other (buggy as hell ^^', will work on it)
+4 - reset platform to initial place (works even when 2 Platforms are inside of each other)
+
+Premise:
+
+Map:
+The Map is the kitchen, wher the Player had it's last dispute with his partner.
+
+Narrative: 
+You are a girl which 
