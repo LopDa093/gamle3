@@ -15,9 +15,13 @@ Modes:
 4 - reset platform to initial place (works even when 2 Platforms are inside of each other)
 
 Premise:
+You need to traverse the Map, while manoevering the Platforms and leave this place.
 
 Map:
-The Map is the kitchen, wher the Player had it's last dispute with his partner.
+The Map is the kitchen, where the Player had it's last dispute with his partner. The Kitchen is messy because it was a pretty big fight.
 
 Narrative: 
-You are a girl which 
+You are a girl which had a terrible hearthbreak, and fell into a coma. You wake up in this strange place and have no idea of what's going on.
+
+Goal:
+You need to reach the Windows and leave the Place.
